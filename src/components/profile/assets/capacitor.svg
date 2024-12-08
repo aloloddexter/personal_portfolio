@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="13px" height="13px">
+  <!-- Main background square with a rounded border and gradient fill -->
+  <path fill="#000000" d="M36,6H12c-3.314,0-6,2.686-6,6v24c0,3.314,2.686,6,6,6h24c3.314,0,6-2.686,6-6V12C42,8.686,39.314,6,36,6z"/>
+  
+  <!-- Gradient for the background -->
+  <linearGradient id="gradient" x1="8" x2="40" y1="24" y2="24" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#7819a2"/>
+    <stop offset="1" stop-color="#771aa9"/>
+  </linearGradient>
+  <path fill="url(#gradient)" d="M36,40H12c-2.209,0-4-1.791-4-4V12c0-2.209,1.791-4,4-4h24c2.209,0,4,1.791,4,4v24C40,38.209,38.209,40,36,40z"/>
+
+  <!-- Centered text or logo (replace with your own design if needed) -->
+  <circle cx="24" cy="24" r="7" fill="#53B9FF"/>
+  
+  <!-- Example paths for shapes inside the circle -->
+  <polygon fill="#53B9FF" points="15.1857575 20.6150705 0.118321575 35.7015162 23.3547581 59.0075937 0 82.4324063 15.0202921 97.5254349 38.4221054 74.0941206 61.697219 97.358019 76.7646476 82.2714921"/>
+  <polygon fill="#119EFF" points="53.5304127 59.008 38.4226337 74.0941206 61.6976254 97.3584254 76.765054 82.2718984"/>
+  <polygon fill-opacity="0.2" fill="#000000" points="53.5304127 59.008 38.4226337 74.0941206 44.2384254 79.8776889"/>
+  <polygon fill="#53B9FF" points="74.1217524 38.4705422 97.5238095 15.0392279 82.4498794 0 59.0547302 23.3842184 35.7777473 0.118473549 20.7103187 15.2049371 82.2893714 76.8613587 97.3568 61.7748317"/>
+  <polygon fill="#119EFF" points="43.9466667 38.4711517 59.0547302 23.3847873 35.7777473 0.119047721 20.7103187 15.205506"/>
+  <polygon fill-opacity="0.2" fill="#000000" points="43.9462603 38.4706235 59.0543238 23.3842997 53.2370286 17.5991873"/>
+</svg>
